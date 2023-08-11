@@ -1,0 +1,266 @@
+1. Current GPU memory usage: 0.0 MB
+51041271808 0 0 0
+1. After loading, Current GPU memory usage: 0.0 MB
+train
+
+Epoch: 0
+Loss: 0.05372187 | Acc: 0.20176917% (2585/1281167)
+iteration times 20019
+Epoch 0 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 4454.222620725632
+The sum time of data_transfer time 3585.961227416992
+The sum time of train time 868.1042885780334
+train
+
+Epoch: 1
+Loss: 0.04963265 | Acc: 0.04745673% (608/1281167)
+iteration times 20019
+Epoch 1 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 8859.553309679031
+The sum time of data_transfer time 6098.4096422195435
+The sum time of train time 2760.6942262649536
+train
+
+Epoch: 2
+Loss: 0.04576164 | Acc: 0.13971637% (1790/1281167)
+iteration times 20019
+Epoch 2 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 13833.428008317947
+The sum time of data_transfer time 8644.605294466019
+The sum time of train time 5188.164925336838
+train
+
+Epoch: 3
+Loss: 0.04310897 | Acc: 0.04917392% (630/1281167)
+iteration times 20019
+Epoch 3 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 18053.53014421463
+The sum time of data_transfer time 10419.292033433914
+The sum time of train time 7633.365084886551
+train
+
+Epoch: 4
+Loss: 0.04170171 | Acc: 0.11107061% (1423/1281167)
+iteration times 20019
+Epoch 4 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 22347.644113063812
+The sum time of data_transfer time 12265.807662963867
+The sum time of train time 10080.74047923088
+train
+
+Epoch: 5
+Loss: 0.04038769 | Acc: 0.38948865% (4990/1281167)
+iteration times 20019
+Epoch 5 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 26625.30132985115
+The sum time of data_transfer time 14095.76243019104
+The sum time of train time 12528.232358455658
+train
+
+Epoch: 6
+Loss: 0.03890063 | Acc: 0.64050979% (8206/1281167)
+iteration times 20019
+Epoch 6 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 30810.127438783646
+The sum time of data_transfer time 15833.49665760994
+The sum time of train time 14975.142283678055
+train
+
+Epoch: 7
+Loss: 0.03793753 | Acc: 1.08604109% (13914/1281167)
+iteration times 20019
+Epoch 7 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 34977.53383922577
+The sum time of data_transfer time 17554.622465610504
+The sum time of train time 17421.239386558533
+train
+
+Epoch: 8
+Loss: 0.03691336 | Acc: 1.55928150% (19977/1281167)
+iteration times 20019
+Epoch 8 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 39156.23606276512
+The sum time of data_transfer time 19285.76626610756
+The sum time of train time 19868.613135576248
+train
+
+Epoch: 9
+Loss: 0.03563169 | Acc: 1.95103371% (24996/1281167)
+iteration times 20019
+Epoch 9 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 43369.63590788841
+The sum time of data_transfer time 21050.107063770294
+The sum time of train time 22317.471319913864
+train
+
+Epoch: 10
+Loss: 0.03416311 | Acc: 2.12142523% (27179/1281167)
+iteration times 20019
+Epoch 10 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 47611.78330159187
+The sum time of data_transfer time 22842.292659044266
+The sum time of train time 24767.2574801445
+train
+
+Epoch: 11
+Loss: 0.03223712 | Acc: 2.38118840% (30507/1281167)
+iteration times 20019
+Epoch 11 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 51929.94529771805
+The sum time of data_transfer time 24516.10098171234
+The sum time of train time 27411.40281844139
+train
+
+Epoch: 12
+Loss: 0.02983570 | Acc: 3.58196863% (45891/1281167)
+iteration times 20019
+Epoch 12 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 56254.385550260544
+The sum time of data_transfer time 26123.41283416748
+The sum time of train time 30128.34721803665
+train
+
+Epoch: 13
+Loss: 0.02756649 | Acc: 5.42060481% (69447/1281167)
+iteration times 20019
+Epoch 13 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 60548.03842353821
+The sum time of data_transfer time 27858.715748548508
+The sum time of train time 32686.4743373394
+train
+
+Epoch: 14
+Loss: 0.02559572 | Acc: 7.52314101% (96384/1281167)
+iteration times 20019
+Epoch 14 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 64880.170899152756
+The sum time of data_transfer time 29737.32702064514
+The sum time of train time 35139.77841305733
+train
+
+Epoch: 15
+Loss: 0.02500718 | Acc: 9.16656455% (117439/1281167)
+iteration times 20019
+Epoch 15 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 69885.3362493515
+The sum time of data_transfer time 32032.726676225662
+The sum time of train time 37848.77746939659
+train
+
+Epoch: 16
+Loss: 0.02338348 | Acc: 10.35189011% (132625/1281167)
+iteration times 20019
+Epoch 16 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 74530.77374601364
+The sum time of data_transfer time 34259.54268980026
+The sum time of train time 40267.18124294281
+train
+
+Epoch: 17
+Loss: 0.02247735 | Acc: 11.47719228% (147042/1281167)
+iteration times 20019
+Epoch 17 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 78861.28951621056
+The sum time of data_transfer time 35763.75221014023
+The sum time of train time 43093.256887197495
+train
+
+Epoch: 18
+Loss: 0.02204445 | Acc: 12.48549174% (159960/1281167)
+iteration times 20019
+Epoch 18 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 83064.27714133263
+The sum time of data_transfer time 37360.4464302063
+The sum time of train time 45699.3449409008
+train
+
+Epoch: 19
+Loss: 0.02099642 | Acc: 14.67131139% (187964/1281167)
+iteration times 20019
+Epoch 19 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 87284.73651266098
+The sum time of data_transfer time 39056.00135779381
+The sum time of train time 48224.04724788666
+train
+
+Epoch: 20
+Loss: 0.02060178 | Acc: 15.00912840% (192292/1281167)
+iteration times 20019
+Epoch 20 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 91495.65048003197
+The sum time of data_transfer time 40817.640511751175
+The sum time of train time 50673.11317229271
+train
+
+Epoch: 21
+Loss: 0.02075488 | Acc: 14.48484077% (185575/1281167)
+iteration times 20019
+Epoch 21 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 95702.97648859024
+The sum time of data_transfer time 42577.85301780701
+The sum time of train time 53120.04878973961
+train
+
+Epoch: 22
+Loss: 0.02026821 | Acc: 15.76586034% (201987/1281167)
+iteration times 20019
+Epoch 22 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 99918.1901268959
+The sum time of data_transfer time 44296.42766189575
+The sum time of train time 55616.5204679966
+train
+
+Epoch: 23
+Loss: 0.02037396 | Acc: 15.07929880% (193191/1281167)
+iteration times 20019
+Epoch 23 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 104128.26128935814
+The sum time of data_transfer time 45905.31392669678
+The sum time of train time 58217.53338766098
+train
+
+Epoch: 24
+Loss: 0.01988987 | Acc: 15.93929597% (204209/1281167)
+iteration times 20019
+Epoch 24 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 108386.6704056263
+The sum time of data_transfer time 47716.221326828
+The sum time of train time 60664.86810564995
+train
+
+Epoch: 25
+Loss: 0.01972926 | Acc: 16.44547510% (210694/1281167)
+iteration times 20019
+Epoch 25 --------------------------------------------------------------------
+The maximum memory usage is 1606899712
+The sum time of all epoch 112535.8532114029
+The sum time of data_transfer time 49417.152156353
+The sum time of train time 63112.956097364426
+train
+
+Epoch: 26
